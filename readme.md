@@ -1,0 +1,1 @@
+The challenge is to replicate a landing page layout using flexbox without worrying about responsive design for mobile screens. By completing this challenge, I will display knowledge of how to layout html elements in a way that is conducive to creating flexbox layouts, and knowledge of how to use css to style html elements.
